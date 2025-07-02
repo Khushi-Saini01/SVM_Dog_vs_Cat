@@ -6,7 +6,9 @@ This project focuses on classifying images of Dogs and Cats 🐾 using a Support
 It demonstrates image preprocessing, feature flattening, model training, and single image prediction using a small dataset.
 
 📂 Project Folder Structure
+
 SVM-Dog-Cat-Classifier/
+
 ├── SVM.py                  # Main Python code for training and testing SVM
 ├── test_images/            # Folder containing test images (small sample)
 │   ├── cat1.jpg
