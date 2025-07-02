@@ -1,5 +1,6 @@
 # SVM_Dog_vs_Cat
 🐶🐱 Dog vs Cat Image Classification using SVM
+
 📌 Project Overview
 This project focuses on classifying images of Dogs and Cats 🐾 using a Support Vector Machine (SVM) classifier built with Python and Scikit-Learn.
 
@@ -28,6 +29,7 @@ Dataset/
     ├── dog1.jpg
     └── ...
 (Due to GitHub size limits, full dataset is not included. You can use this Kaggle dataset or your own small dataset.)
+
 ✅ Author
 👩‍💻 Khushi Saini
 AI and ML Student | Machine Learning Projects
